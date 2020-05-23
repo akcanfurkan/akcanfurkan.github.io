@@ -1,0 +1,35 @@
+#textBody {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+
+#backgroundBody {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background: url(background.png);
+    background-size: cover;
+    background-color:#464646;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+
+    background: #120e07;
+    color: #ffce54;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
