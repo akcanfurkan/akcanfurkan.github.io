@@ -1,5 +1,7 @@
 # akcanfurkan.github.io
 
+I used the following resource in the construction of this type of website. [resource](https://www.youtube.com/watch?v=7oJnTAsE-DY)
+
 ## What did I learn from this project?
 
 ---
